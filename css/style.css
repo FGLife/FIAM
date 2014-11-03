@@ -180,7 +180,7 @@ h5 + p {
   margin: 0 0 25px 0;
 }
 .main-header {
-  background: #453951;
+  background: #45545f;
   padding: 26px 0;
 }
 .main-header .page-title {
@@ -850,7 +850,7 @@ body {
   background: #f5f5f5;
 }
 .brightText {
-  background-color: #453951;
+  background-color: #45545f;
   color: #fff;
 }
 .brightText h1,
@@ -909,7 +909,7 @@ body {
   -o-background-size: cover;
   background-size: cover;
   background-attachment: fixed;
-  background-color: #453951;
+  background-color: #45545f;
   min-height: 560px;
 }
 .parallaxSection.height100 {
@@ -1552,7 +1552,7 @@ p + .panel-group {
   line-height: 20px;
   color: #fff;
   text-align: center;
-  background-color: #453951;
+  background-color: #45545f;
   -webkit-box-shadow: none;
   box-shadow: none;
   -webkit-transition: none;
@@ -2179,7 +2179,7 @@ footer hr,
 }
 .prefooter {
   padding: 20px 0;
-  background: #453951;
+  background: #45545f;
   color: #ccc;
   color: rgba(255,255,255,0.4);
 }
@@ -2334,7 +2334,7 @@ dd {
   -moz-border-radius: 3px;
   border-radius: 3px;
   color: #fff;
-  background-color: #453951;
+  background-color: #45545f;
   border-color: transparent;
 }
 .nav-pills > li:first-child > a {
@@ -2351,7 +2351,7 @@ dd {
   margin-left: 0;
 }
 .priceBox .inner {
-  background: #453951;
+  background: #45545f;
   padding: 45px 10px;
 }
 .priceBox .inner .btn {
