@@ -4,8 +4,8 @@
  */
 
 //where we would like to send email
-$recipientEmail = 'recipient@mail.com';
-$recipientName = 'Recipient Name';
+$recipientEmail = 'info@fiam.com';
+$recipientName = 'Five Island Asset MAnagement Info';
 
 //Address which will be visible in "From" field
 $fromEmail = 'donotreply@mail.com';
