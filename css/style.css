@@ -411,10 +411,10 @@ input::-moz-focus-inner {
   box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.25);
 }
 .navbar-default .nav > li {
-  padding: 28px 16px;
+  padding: 45px 16px 20px 20px;
 }
 .navbar-default .nav > li.dropdown {
-  padding-right: 22px;
+  padding-right: 25px;
 }
 .navbar-default .nav > li.dropdown > a:after {
   display: inline-block;
@@ -431,7 +431,7 @@ input::-moz-focus-inner {
   position: absolute;
 }
 .navbar-default .nav > li > a {
-  font-size: 13px;
+  font-size: 16px;
   line-height: 15px;
   font-weight: 600;
   color: #666;
