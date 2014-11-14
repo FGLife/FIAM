@@ -103,6 +103,10 @@ h2 {
   font-weight: 400;
   font-size: 21px;
 }
+h2.topmargin{
+	margin-top: s100px
+}
+
 h3 {
   font-size: 24px;
   line-height: 28px;
@@ -128,6 +132,10 @@ h5 {
 }
 h5 + p {
   margin-bottom: 40px;
+}
+h6 {
+	font-size: 12px;
+	line height: 13px;
 }
 .widget-title {
   font-size: 16px;
@@ -933,7 +941,7 @@ body {
 .parallaxSection.height100 .flexslider .slides li .container .inner {
   display: table-cell;
   vertical-align: middle;
-  padding: 0;
+  padding: 100;
 }
 .parallaxSection.height100 .flexslider .slides li .container .inner .text-center {
   margin-top: 0;
@@ -2856,7 +2864,7 @@ html[xmlns] .slides {
   color: #fff;
 }
 .flexslider .inner h1,
-.flexslider .inner h2,
+
 .flexslider .inner h3,
 .flexslider .inner h4,
 .flexslider .inner h5,
@@ -2864,6 +2872,8 @@ html[xmlns] .slides {
   font-weight: 400;
   color: #fff;
 }
+
+.flexslider .inner h2,
 .flexslider .inner p {
   color: #fff;
   font-size: 20px;

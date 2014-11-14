@@ -484,6 +484,7 @@ cite {
 }
 .text-center {
   text-align: center;
+  alignment-adjust: central; 
 }
 .text-justify {
 	text-align: justify;
