@@ -2877,8 +2877,8 @@ html[xmlns] .slides {
 .flexslider .inner p {
   color: #fff;
   font-size: 20px;
-  line-height: 30px;
-  margin: 0 0 30px 0;
+  line-height: 28px;
+  margin: 0 0 10px 0;
 }
 .flexslider .inner .btn-default {
   color: #fff;
@@ -2905,7 +2905,7 @@ html[xmlns] .slides {
   margin-top: 70px;
 }
 .flexslider .inner .text-center * {
-  margin-bottom: 32px;
+  margin-bottom: 10px;
 }
 .flexslider .flex-direction-nav a {
   text-align: center;
