@@ -3839,7 +3839,7 @@ img.mfp-img {
     margin-right: 20px;
   }
   .widget-title {
-    text-align: center;
+	text-align: left;
   }
   #showHeaderSearch {
     display: none;
@@ -3904,16 +3904,28 @@ img.mfp-img {
   }
   .flexslider .inner {
     text-align: center;
-    padding: 50px 15px;
+    padding: 50px 8px;
   }
   .flexslider .inner p {
     font-size: 15px;
-    line-height: 20px;
+    line-height: 17px;
   }
   .flexslider .inner .btn + .btn {
     margin: 15px 0;
   }
+  .navbar-brand {
+	  display: none;
+  }
+p.larger {
+    color: #B5B5B5;
+    font-size: 13px;
+    line-height: 15px;
+    margin: 0px 10px 25px 10px;
 }
+.content-area {
+	height: 100%;
+}
+
 @media (max-width: 771px) {
   .videoSection.parallaxEffect {
     height: auto !important;
